@@ -1,0 +1,2 @@
+# CodeAlpha_ProjectName_Speech_Emotion_Recognition
+Machine Learning Project
